@@ -1,3 +1,6 @@
+
+# .env
+
 API_BINANCE_DEV=https://testnet.binance.vision/api
 
 API_BINANCE_PROD=https://api.binance.com/api
